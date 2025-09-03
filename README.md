@@ -1,5 +1,3 @@
-# niharika-maddireddy.portfolio
-Niharika Maddireddy - Portfolio
 🚀 Live Portfolio: 
 Welcome to my professional portfolio! This repository contains the source code for my personal website showcasing my experience as a Project Manager in the tech industry.
 👋 About Me
